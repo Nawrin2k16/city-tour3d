@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="1607028" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/1607028" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/1607028" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files (x86)/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="1607028.cbp" />
+		<Unit filename="BmpLoader.cpp" />
+		<Unit filename="BmpLoader.h" />
+		<Unit filename="Sounds/Car-Driving-B3-www.fesliyanstudios.com.wav" />
+		<Unit filename="Sounds/Car-engine-tuning-and-leaving-2.wav" />
+		<Unit filename="Sounds/Car.wav" />
+		<Unit filename="Sounds/Cheers.wav" />
+		<Unit filename="Sounds/Click.wav" />
+		<Unit filename="Sounds/Crash.wav" />
+		<Unit filename="Sounds/Highway-noise.wav" />
+		<Unit filename="Sounds/Indy Car.wav-23286-Free-Loops.com.wav" />
+		<Unit filename="Sounds/Mouse-Click.wav" />
+		<Unit filename="Sounds/Race-car-sound-effects.wav" />
+		<Unit filename="Sounds/Race_Loop.wav" />
+		<Unit filename="Sounds/Racing-sounds.wav" />
+		<Unit filename="Sounds/Read.txt" />
+		<Unit filename="Sounds/Sports-Car-Driving-Med-www.fesliyanstudios.com.wav" />
+		<Unit filename="Sounds/Star_pass.wav" />
+		<Unit filename="Sounds/Start_car.wav" />
+		<Unit filename="Sounds/VEHCar_Car in reverse 3 (ID 0849)_BSB.wav" />
+		<Unit filename="Sounds/achiement.wav" />
+		<Unit filename="Sounds/background.wav" />
+		<Unit filename="Sounds/button-click-sound-effect.wav" />
+		<Unit filename="Sounds/cars-specific-race-cars-desert-sound-effect-1597813434.wav" />
+		<Unit filename="Sounds/cash-register-sound-effect.wav" />
+		<Unit filename="Sounds/critical_charge.wav" />
+		<Unit filename="Sounds/dirt.wav" />
+		<Unit filename="Sounds/distant-large-crowd-cheer-short-sound-effect-68811036.wav" />
+		<Unit filename="Sounds/drop.wav" />
+		<Unit filename="Sounds/esc.wav" />
+		<Unit filename="Sounds/fail.wav" />
+		<Unit filename="Sounds/files (online-audio-converter.com).zip" />
+		<Unit filename="Sounds/give_up.wav" />
+		<Unit filename="Sounds/gunhandgun.wav" />
+		<Unit filename="Sounds/headlight.wav" />
+		<Unit filename="Sounds/idle_engine.wav" />
+		<Unit filename="Sounds/inside race car revving.wav" />
+		<Unit filename="Sounds/lose.wav" />
+		<Unit filename="Sounds/low-battery-sound.wav" />
+		<Unit filename="Sounds/mettez_le_contact.wav" />
+		<Unit filename="Sounds/negative.wav" />
+		<Unit filename="Sounds/negative2.wav" />
+		<Unit filename="Sounds/ocean-waves-jetty-water-a-sound-effect-1597745258.wav" />
+		<Unit filename="Sounds/race_car_speeding.wav" />
+		<Unit filename="Sounds/racing-cars-sounds.wav" />
+		<Unit filename="Sounds/silence_64kb.wav" />
+		<Unit filename="Sounds/son_993.wav" />
+		<Unit filename="Sounds/son_996.wav" />
+		<Unit filename="Sounds/success-sound-effect.wav" />
+		<Unit filename="Sounds/trap.wav" />
+		<Unit filename="Sounds/wrong_star.wav" />
+		<Unit filename="brick.bmp" />
+		<Unit filename="car1.bmp" />
+		<Unit filename="car2.bmp" />
+		<Unit filename="glass.bmp" />
+		<Unit filename="glass2.bmp" />
+		<Unit filename="images/Instruction.bmp" />
+		<Unit filename="images/Title.bmp" />
+		<Unit filename="images/Water.bmp" />
+		<Unit filename="images/bark2.bmp" />
+		<Unit filename="images/car1.bmp" />
+		<Unit filename="images/car2.bmp" />
+		<Unit filename="images/checker2.bmp" />
+		<Unit filename="images/coffee.bmp" />
+		<Unit filename="images/cone.bmp" />
+		<Unit filename="images/download.bmp" />
+		<Unit filename="images/glass.bmp" />
+		<Unit filename="images/grass2.bmp" />
+		<Unit filename="images/house4.bmp" />
+		<Unit filename="images/house5.bmp" />
+		<Unit filename="images/key.bmp" />
+		<Unit filename="images/lose3.bmp" />
+		<Unit filename="images/metal.bmp" />
+		<Unit filename="images/plane.bmp" />
+		<Unit filename="images/road1.bmp" />
+		<Unit filename="images/road2.bmp" />
+		<Unit filename="images/road3.bmp" />
+		<Unit filename="images/score2.bmp" />
+		<Unit filename="images/shop.bmp" />
+		<Unit filename="images/shop2.bmp" />
+		<Unit filename="images/shop3.bmp" />
+		<Unit filename="images/sky.bmp" />
+		<Unit filename="images/wheel2.bmp" />
+		<Unit filename="images/win.bmp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="metal.bmp" />
+		<Unit filename="road1.bmp" />
+		<Unit filename="road2.bmp" />
+		<Unit filename="wheel.bmp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
