@@ -4,15 +4,21 @@
 ## How To Run The Code ##
 This is an Opengl based Computer Graphics Game. The texture and sounds files are kept in the D drive folder. If you want to change the file locations update the path in cpp file. The game can be played in two ways-with keyboard or mouse pointer. To play the game using keyboard follow the instructions in the instruction bar. To play with mouse pointer write click on the mouse after starting the game and point to the direction you want the car to follow.
 
-## How To Play The Game ## 
+## What this game has ##
++ Dynamic day and night mode.
++ Collition detection and reward count.
++ Various lighting effect
++ Both mouse and keyboard control
++ Added sound effect
 
+## How To Play The Game ## 
 + If you stop auto-forwarding of the car, your score will be deducted as long as you don't start auto forwarding again.
 + To win the game you have to return the starting position and your score must be above 1000
 + Return to the starting point before fuel exhusts within allowed number of moves
 + Collition with any high object or falling into river or lake will result in GAME OVER
 + If car fuel gets empty or the allowed moves exceed, it will be GAME OVER
 + Collect stars to replenish fuel and slow down the car while collecting stars
-+ While fule is above 900, collecting more stars will add penalty by deducting the remaining number of allowed moves
++ While fuel is above 900, collecting more stars will add penalty by deducting the remaining number of allowed moves
 + Score will go up with the distance covered and the speed of the car
 
 ![1607028_Project-3D RACE 6_15_2021 6_56_06 AM](https://user-images.githubusercontent.com/45265281/121977019-da8ef800-cda6-11eb-92ac-ad4597d193ce.png)
