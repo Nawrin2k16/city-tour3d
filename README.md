@@ -2,7 +2,7 @@
 # CITY TOUR 3D
 
 ## How To Run The Code ##
-This is an Opengl based Computer Graphics Game. The texture and sounds files are kept in the D drive folder. If you want to change the file locations update the path in cpp file. The game can be played in two ways-with keyboard or mouse pointer. To play the game using keyboard follow the instructions in the instruction bar. To play with mouse pointer write click on the mouse after starting the game and point to the direction you want the car to follow.
+This is an Opengl based Computer Graphics Game. The texture and sounds files are kept in the D drive folder. If you want to change the file locations, update the path in cpp file. The game can be played in two ways-with keyboard or mouse pointer. To play the game using keyboard follow the instructions in the instruction bar. To play with mouse pointer, 'right click' on the mouse after starting the game and point to the direction you want the car to follow.
 
 ## What this game has ##
 + Dynamic day and night mode.
@@ -39,3 +39,4 @@ This is an Opengl based Computer Graphics Game. The texture and sounds files are
 ![1607028_Project-3D RACE 6_15_2021 4_36_46 AM](https://user-images.githubusercontent.com/45265281/121968642-81b66400-cd94-11eb-90a3-02122d5082c2.png)
 ![1607028_Project-3D RACE 6_15_2021 4_36_55 AM](https://user-images.githubusercontent.com/45265281/121968652-8418be00-cd94-11eb-9c3f-fd35108b7ca7.png)
 ![1607028_Project-3D RACE 6_15_2021 4_37_19 AM](https://user-images.githubusercontent.com/45265281/121968659-867b1800-cd94-11eb-9176-e5f5def8feb5.png)
+Game video link : https://drive.google.com/file/d/1O3Mitq5Bi5kfhABlvLDLXPzgzV6_9iqo/view?usp=sharing
