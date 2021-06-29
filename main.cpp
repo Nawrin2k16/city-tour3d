@@ -657,7 +657,7 @@ void sun()
     Material(1, 1, 1, 3);
     glRotatef(SunAngle, -x, 0, 0);
     glTranslatef(x-5, y, z+30-130);
-    //glutSolidSphere(2.5, 25, 25);
+    glutSolidSphere(2.5, 25, 25);
     //gluDisk(quadratic, 0.001, 2, 15, 15);
 
     sunlight();
@@ -2836,7 +2836,7 @@ void processMouseMovement(int xx, int yy)
     lx = sin(angle);
     lz = -cos(angle);
 
-    ly = sin(yAngle-0.1);
+    ly = sin(yAngle-0.15);
 }
 
 // Adjusts the viewport sie when the window size is changed and sets the projection.
