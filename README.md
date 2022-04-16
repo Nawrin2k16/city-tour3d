@@ -6,7 +6,7 @@ This is an Opengl based Computer Graphics Game. The texture and sounds files are
 
 ## What this game has ##
 + Dynamic day and night mode.
-+ Collition detection and reward count.
++ Collision detection and reward count.
 + Various lighting effect
 + Both mouse and keyboard control
 + Added sound effect
