@@ -4,7 +4,7 @@
 ## How To Run The Code ##
 This is an Opengl based Computer Graphics Game. The texture and sounds files are kept in the D drive folder. If you want to change the file locations, update the path in cpp file. The game can be played in two ways-with keyboard or mouse pointer. To play the game using keyboard follow the instructions in the instruction bar. To play with mouse pointer, 'right click' on the mouse after starting the game and point to the direction you want the car to follow.
 
-# **README.md
+# README.md
 
 ## 3D Race Game — OpenGL (Legacy GLUT Version)
 
